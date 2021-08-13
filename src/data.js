@@ -10,6 +10,7 @@
     not by your logic
     not by your listeners
 */
+
 export const quizData = {
   currentQuestionIndex: 0,
   questionItem: 0,
@@ -19,11 +20,12 @@ export const quizData = {
   // the questions in the quiz
   questions: [
     {
-      text: 'During the JS module how many times did Eyad call the police 😆?',
+      text: 'How would you change the date to one week later?',
       answers: {
-        a: '3',
-        b: '10',
-        c: '15',
+        a: 'myDate.setDate(myDate.getDate()+7)',
+        b: 'myDate.chgDate(7)',
+        c: 'myDate.setDate(+7)',
+        d: 'myDate.chgDate(myDate.grtDate()+7)',
       },
       correct: 'a',
       selected: null,
