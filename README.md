@@ -49,24 +49,24 @@ So what should be built? Below is a collection of user stories you can choose fr
 
 > these are necessary for basic usability
 
-- [ ] A user can see one question at a time, stepping through the quiz
-- [ ] A user can select an answer for each question
-- [ ] A user can know which questions they got correct and incorrect (either immediately or at the end of the quiz)
-- [ ] A user can see the correct answer for questions (either immediately or at the end of the quiz)
-- [ ] A user can see their score at the end of the quiz
+- [x] A user can see one question at a time, stepping through the quiz
+- [x] A user can select an answer for each question
+- [x] A user can know which questions they got correct and incorrect (either immediately or at the end of the quiz)
+- [x] A user can see the correct answer for questions (either immediately or at the end of the quiz)
+- [x] A user can see their score at the end of the quiz
 
 ## Nice-to-Haves
 
 > if time, add more features!
 
-- [ ] A user can see their score update in real-time as they select answers
+- [x] A user can see their score update in real-time as they select answers
 - [ ] A user can modify a question in the quiz
-- [ ] A user has access to resources for further study on each question
+- [x] A user has access to resources for further study on each question
 - [ ] A user can "cheat" to see the correct answer, this forfeits the question
 - [ ] A user can remove questions from the quiz
 - [ ] A user can add questions to the quiz
 - [ ] Anything else you can think of... go nuts!
 
 
-# JavaScript-Quiz
-# JavaScript-Quiz
+
+
