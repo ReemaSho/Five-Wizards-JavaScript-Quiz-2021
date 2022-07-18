@@ -1,5 +1,5 @@
 # Demo
-[Five Wizards JavaScript Quiz](https://reemasho.github.io/JavaScript-Quiz-2021/)
+[Five Wizards JavaScript Quiz]( https://reemasho.github.io/Five-Wizards-JavaScript-Quiz-2021/)
 # Getting Started
 
 This repository functions as the basis of the quiz project in the [Browsers module](https://github.com/HackYourFuture/Browsers). Before the first group meeting, have a look through this code and try to understand how it works and how it is organised. We will explain the idea behind the structure below as well as the Backlog (which will identify what is needed to be implemented).
